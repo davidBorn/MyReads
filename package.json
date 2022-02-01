@@ -4,6 +4,7 @@
     "homepage": "https://davidBorn.github.io/myReads",
     "private": true,
     "dependencies": {
+        "gh-pages": "^3.2.3",
         "prop-types": "^15.7.2",
         "react": "^16.6.3",
         "react-dom": "^16.6.3",
