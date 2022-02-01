@@ -4,8 +4,8 @@ A React application that keeps track of selected books and and places them in th
 <h2>Technologies Required to Run</h2>
 <ul>
   <li>Node.js</li>
-  <li>npm or yarn</li>
+  <li>After cloning the directory, run <code>npm install</code>
 </ul>
 
 <h2>Launch</h2>
-launch code with <code>npm start</code> or <code>yarn start</yarn>
+Within the directory launch the react app by running <code>npm start</code>
